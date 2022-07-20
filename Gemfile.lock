@@ -1,0 +1,35 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-memory (0.2.0)
+      memory_profiler (~> 1)
+    ffi (1.15.5)
+    image_processing (1.12.2)
+      mini_magick (>= 4.9.5, < 5)
+      ruby-vips (>= 2.0.17, < 3)
+    memory_profiler (1.0.0)
+    mimemagic (0.4.3)
+      nokogiri (~> 1)
+      rake
+    mini_magick (4.11.0)
+    nokogiri (1.13.7-x86_64-linux)
+      racc (~> 1.4)
+    racc (1.6.0)
+    rake (13.0.6)
+    ruby-vips (2.1.4)
+      ffi (~> 1.12)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  benchmark-memory
+  image_processing
+  mimemagic
+  mini_magick
+
+RUBY VERSION
+   ruby 3.1.2p20
+
+BUNDLED WITH
+   2.3.15
