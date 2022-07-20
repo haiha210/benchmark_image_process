@@ -6,7 +6,7 @@
 ruby test_benchmark.rb
 ```
 
-- result
+- results
 
 ```bash
 benchmark bm
