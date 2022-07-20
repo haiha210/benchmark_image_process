@@ -2,7 +2,7 @@
 
 - how to run:
 
-```ruby
+```bash
 ruby test_benchmark.rb
 ```
 
