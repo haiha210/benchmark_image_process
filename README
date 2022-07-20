@@ -1,10 +1,14 @@
 # Compare benchmark image process
 
-```
+- how to run:
+
+```ruby
 ruby test_benchmark.rb
 ```
 
-```
+- result
+
+```bash
 benchmark bm
 ===============================================================================
        user     system      total        real
